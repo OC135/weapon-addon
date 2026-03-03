@@ -1,0 +1,1 @@
+このアドオンはjetbridgeアドオンを改造して作られているためall-in-one-addonと併用ができません。ほかのアドオンを使用する際はrealismアドオンなどから直接bookmarkletをとってきてください。
