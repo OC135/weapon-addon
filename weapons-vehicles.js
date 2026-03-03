@@ -900,6 +900,24 @@
     "model": "https://OC135.github.io/test6/nimitz2.glb"
 },
 {
+    "name":"KC-135R E-4B",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135e4.glb"
+},
+{
+    "name":"KC-10 E-4B",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10e4.glb"
+},
+{
+    "name":"KC-46 E-4B",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46e4.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
