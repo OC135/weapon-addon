@@ -924,6 +924,36 @@
     "model": "https://OC135.github.io/test6/kaape.glb"
 },
 {
+    "name":"B764 E-767 radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/eb764.glb"
+},
+{
+    "name":"B764 KC-767 boom off",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kb764off.glb"
+},
+{
+    "name":"B764 KC-767 boom on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kb764on.glb"
+},
+{
+    "name":"B764 KC-46 boom off",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kb47off.glb"
+},
+{
+    "name":"B764 KC-46 boom on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kb47on.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
