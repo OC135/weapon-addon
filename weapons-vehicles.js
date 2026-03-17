@@ -1125,37 +1125,37 @@
     "name":"Rafale GBU-31 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafaler55056.glb"
+    "model": "https://OC135.github.io/test6/rafalegbu3114.glb"
 },
 {
     "name":"Rafale GBU-31 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair110.glb"
+    "model": "https://OC135.github.io/test6/rafalegbu3123.glb"
 },
 {
     "name":"Rafale AASM #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair29.glb"
+    "model": "https://OC135.github.io/test6/rafaleaasm14.glb"
 },
 {
     "name":"Rafale AASM #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair38.glb"
+    "model": "https://OC135.github.io/test6/rafaleaasm23.glb"
 },
 {
     "name":"Rafale fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair47.glb"
+    "model": "https://OC135.github.io/test6/rafalef13.glb"
 },
 {
     "name":"Rafale fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair56.glb"
+    "model": "https://OC135.github.io/test6/rafalef2.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
