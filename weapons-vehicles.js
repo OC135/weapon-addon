@@ -1206,6 +1206,186 @@
     "model": "https://OC135.github.io/test6/su35f3.glb"
 },
 {
+    "name":"Su-35 R-37M #1.10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m110.glb"
+},
+{
+    "name":"Su-35 R-37M #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m29.glb"
+},
+{
+    "name":"Su-35 R-37M #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m38.glb"
+},
+{
+    "name":"Su-35 R-37M #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m47.glb"
+},
+{
+    "name":"Su-35 R-37M #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m5.glb"
+},
+{
+    "name":"Su-35 R-37M #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r37m6.glb"
+},
+{
+    "name":"Su-35 R-27M #1.10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m110.glb"
+},
+{
+    "name":"Su-35 R-27M #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m29.glb"
+},
+{
+    "name":"Su-35 R-27M #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m38.glb"
+},
+{
+    "name":"Su-35 R-27M #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m47.glb"
+},
+{
+    "name":"Su-35 R-27M #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m5.glb"
+},
+{
+    "name":"Su-35 R-27M #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r27m6.glb"
+},
+{
+    "name":"Su-35 R-74M #1,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m112.glb"
+},
+{
+    "name":"Su-35 R-74M #2,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m211.glb"
+},
+{
+    "name":"Su-35 R-74M #3,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m310.glb"
+},
+{
+    "name":"Su-35 R-74M #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m49.glb"
+},
+{
+    "name":"Su-35 R-74M #5,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m58.glb"
+},
+{
+    "name":"Su-35 R-74M #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m6.glb"
+},
+{
+    "name":"Su-35 R-74M #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35r74m7.glb"
+},
+{
+    "name":"Su-35 Kh-29 #1,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kh2918.glb"
+},
+{
+    "name":"Su-35 Kh-29 #2,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kh2927.glb"
+},
+{
+    "name":"Su-35 Kh-29 #3,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kh2936.glb"
+},
+{
+    "name":"Su-35 Kh-29 #4,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kh2945.glb"
+},
+{
+    "name":"Su-35 KAB-500 #1,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab50018.glb"
+},
+{
+    "name":"Su-35 KAB-500 #2,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab50027.glb"
+},
+{
+    "name":"Su-35 KAB-500 #3,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab50036.glb"
+},
+{
+    "name":"Su-35 KAB-500 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab5004.glb"
+},
+{
+    "name":"Su-35 KAB-500 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab5005.glb"
+},
+{
+    "name":"Su-35 KAB-1500 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab150014.glb"
+},
+{
+    "name":"Su-35 KAB-1500 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35kab150023.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
