@@ -660,6 +660,12 @@
     "model": "https://OC135.github.io/test6/mh60r1.glb"
 },
 {
+    "name":"HH-60G USAF",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/hh60g1.glb"
+},
+{
     "name":"KC-767 boom off",
      "rotation":[0,0,0],
     "position":[0,0,0],
