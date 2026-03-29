@@ -1440,6 +1440,12 @@
     "model": "https://OC135.github.io/test6/m205f2.glb"
 },
 {
+    "name":"RJCC 201st FS 40th Anniversary",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/20thf15jf13.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
