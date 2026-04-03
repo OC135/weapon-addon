@@ -1449,13 +1449,13 @@
     "name":"F-16C GBU-12 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu1214.glb"
+    "model": "https://OC135.github.io/test6/f16gbu12141.glb"
 },
 {
     "name":"F-16C GBU-12 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu1223.glb"
+    "model": "https://OC135.github.io/test6/f16gbu12231.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
