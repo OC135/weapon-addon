@@ -711,19 +711,19 @@
     "name":"A330MRTT all off",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/mrttbdoff.glb"
+    "model": "https://OC135.github.io/test6/FUJCS1.glb"
 },
 {
     "name":"A330MRTT boom on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/mrttbon.glb"
+    "model": "https://OC135.github.io/test6/FUJCS2.glb"
 },
 {
     "name":"A330MRTT drogue on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/mrttdon.glb"
+    "model": "https://OC135.github.io/test6/FUJCS3.glb"
 },
 {
     "name":"A400M drogue off",
