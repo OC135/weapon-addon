@@ -1698,10 +1698,28 @@
     "model": "https://OC135.github.io/test6/a10cgbu106.glb"
 },
 {
-    "name":"N/A",
+    "name":" ",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aswjff2.glb"
+},
+{
+    "name":"KC-135R B-2A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b2a1.glb"
+},
+{
+    "name":"KC-10 B-2A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10b2a1.glb"
+},
+{
+    "name":"KC-46 B-2A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46b2a1.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
