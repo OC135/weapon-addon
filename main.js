@@ -99,6 +99,16 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
+"model": "https://OC135.github.io/test6/pf5f2.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option10")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
 "model": "https://OC135.github.io/test6/pf2a2.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
@@ -257,7 +267,8 @@ listdiv.innerHTML = `
   <label><input type="radio" name="option" value="option6"  data-value="6">F-15C pylon</label><br>
   <label><input type="radio" name="option" value="option7"  data-value="7">Su-35 pylon</label><br>
   <label><input type="radio" name="option" value="option8"  data-value="8">Mirage2000-5 pylon</label><br>
-  <label><input type="radio" name="option" value="option9"  data-value="9">F-2A pylon</label><br>
+  <label><input type="radio" name="option" value="option9"  data-value="9">F-5F pylon</label><br>
+  <label><input type="radio" name="option" value="option10"  data-value="10">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 ppylon</label><br>
   <label for="moveAmount">Move Amount:</label>
