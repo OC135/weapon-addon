@@ -1749,67 +1749,67 @@
     "name":"F-5F AIM-9 #1,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1039.glb"
+    "model": "https://OC135.github.io/test6/f5faim916.glb"
 },
 {
     "name":"F-5F AIM-9 #2,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1048.glb"
+    "model": "https://OC135.github.io/test6/f5faim925.glb"
 },
 {
     "name":"F-5F AIM-9 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1057.glb"
+    "model": "https://OC135.github.io/test6/f5faim934.glb"
 },
 {
     "name":"F-5F AGM-65 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu106.glb"
+    "model": "https://OC135.github.io/test6/f5fagm6514.glb"
 },
 {
     "name":"F-5F AGM-65 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aswjff2.glb"
+    "model": "https://OC135.github.io/test6/f5fagm6523.glb"
 },
 {
     "name":"F-5F GBU-12 #1,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135b2a1.glb"
+    "model": "https://OC135.github.io/test6/f5fgbu1215.glb"
 },
 {
     "name":"F-5F GBU-12 #2,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10b2a1.glb"
+    "model": "https://OC135.github.io/test6/f5fgbu1224.glb"
 },
 {
     "name":"F-5F GBU-12 #3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc46b2a1.glb"
+    "model": "https://OC135.github.io/test6/f5fgbu123.glb"
 },
 {
     "name":"F-5F GBU-10 #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc46f18f1.glb"
+    "model": "https://OC135.github.io/test6/f5fgbu101.glb"
 },
 {
     "name":"F-5F fuel tank#1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc46f18f2.glb"
+    "model": "https://OC135.github.io/test6/f5ff13.glb"
 },
 {
     "name":"F-5F fuel tank#2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc46f18f2.glb"
+    "model": "https://OC135.github.io/test6/f5ff2.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
