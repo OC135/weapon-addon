@@ -708,6 +708,18 @@
     "model": "https://OC135.github.io/test6/k464.glb"
 },
 {
+    "name":"KC-46 drogue off",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/t16.glb"
+},
+{
+    "name":"KC-46 drogue on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/t19.glb"
+},
+{
     "name":"A330MRTT all off",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -876,25 +888,25 @@
     "model": "https://OC135.github.io/test6/kc135f15e1.glb"
 },
 {
-    "name":"KC-135R FA-18F #1",
+    "name":"KC-135R F/A-18F #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/kc135fa18f12.glb"
 },
 {
-    "name":"KC-135R FA-18F #2",
+    "name":"KC-135R F/A-18F #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/kc135fa18f22.glb"
 },
 {
-    "name":"KC-135R FA-18F #3",
+    "name":"KC-135R F/A-18F #3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/kc135fa18f32.glb"
 },
 {
-    "name":"KC-10 FA-18F",
+    "name":"KC-10 F/A-18F",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/kc10fa18f2.glb"
@@ -1720,6 +1732,84 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/kc46b2a1.glb"
+},
+{
+    "name":"KC-46 F/A-18F #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f18f1.glb"
+},
+{
+    "name":"KC-46 F/A-18F #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f18f2.glb"
+},
+{
+    "name":"F-5F AIM-9 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1039.glb"
+},
+{
+    "name":"F-5F AIM-9 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1048.glb"
+},
+{
+    "name":"F-5F AIM-9 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1057.glb"
+},
+{
+    "name":"F-5F AGM-65 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu106.glb"
+},
+{
+    "name":"F-5F AGM-65 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aswjff2.glb"
+},
+{
+    "name":"F-5F GBU-12 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b2a1.glb"
+},
+{
+    "name":"F-5F GBU-12 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10b2a1.glb"
+},
+{
+    "name":"F-5F GBU-12 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46b2a1.glb"
+},
+{
+    "name":"F-5F GBU-10 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f18f1.glb"
+},
+{
+    "name":"F-5F fuel tank#1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f18f2.glb"
+},
+{
+    "name":"F-5F fuel tank#2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f18f2.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
