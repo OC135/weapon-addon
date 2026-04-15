@@ -1812,6 +1812,54 @@
     "model": "https://OC135.github.io/test6/f5ff2.glb"
 },
 {
+    "name":"F-14B AIM-54 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14baim5416.glb"
+},
+{
+    "name":"F-14B AIM-54 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14baim5425.glb"
+},
+{
+    "name":"F-14B AIM-54 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14baim5434.glb"
+},
+{
+    "name":"F-14B AIM-9 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14baim914.glb"
+},
+{
+    "name":"F-14B AIM-9 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14baim923.glb"
+},
+{
+    "name":"F-14B GBU-38 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14bgbu3816.glb"
+},
+{
+    "name":"F-14B GBU-38 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14bgbu3825.glb"
+},
+{
+    "name":"F-14B GBU-38 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f14bgbu3834.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
