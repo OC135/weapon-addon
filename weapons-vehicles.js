@@ -1890,6 +1890,60 @@
     "model": "https://OC135.github.io/test6/uh1hm602.glb"
 },
 {
+    "name":"AC-182 Mk.82 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182mk8216.glb"
+},
+{
+    "name":"AC-182 Mk.82 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182mk8225.glb"
+},
+{
+    "name":"AC-182 Mk.82 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182mk8234.glb"
+},
+{
+    "name":"AC-182 M260 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182m26016.glb"
+},
+{
+    "name":"AC-182 M260 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182m26025.glb"
+},
+{
+    "name":"AC-182 M260 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182m26034.glb"
+},
+{
+    "name":"AC-182 AGM-114 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182agm11416.glb"
+},
+{
+    "name":"AC-182 AGM-114 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182agm11425.glb"
+},
+{
+    "name":"AC-182 AGM-114 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ac182agm11434.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
