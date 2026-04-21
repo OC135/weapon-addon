@@ -1860,6 +1860,36 @@
     "model": "https://OC135.github.io/test6/f14bgbu3834.glb"
 },
 {
+    "name":"UH-1H M261 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh1hm26114.glb"
+},
+{
+    "name":"UH-1H M261 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh1hm26123.glb"
+},
+{
+    "name":"UH-1H M260 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh1hm26014.glb"
+},
+{
+    "name":"UH-1H M260 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh1hm26023.glb"
+},
+{
+    "name":"UH-1H M60 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh1hm601.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
