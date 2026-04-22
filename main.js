@@ -290,9 +290,9 @@ listdiv.innerHTML = `
   <label><input type="radio" name="option" value="option9"  data-value="9">F-5F pylon</label><br>
   <label><input type="radio" name="option" value="option10"  data-value="10">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
-    <label><input type="radio" name="option" value="option17"  data-value="17">T-4 ppylon</label><br>
-    <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H ppylon</label><br>
-    <label><input type="radio" name="option" value="option19"  data-value="19">AC-182 ppylon</label><br>
+    <label><input type="radio" name="option" value="option17"  data-value="17">T-4 pylon</label><br>
+    <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H pylon</label><br>
+    <label><input type="radio" name="option" value="option19"  data-value="19">AC-182 pylon</label><br>
   <label for="moveAmount">Move Amount:</label>
 <select id="moveAmount">
  <option value="0.05">0.05</option>
