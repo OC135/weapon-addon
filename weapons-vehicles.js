@@ -1944,6 +1944,48 @@
     "model": "https://OC135.github.io/test6/ac182agm11434.glb"
 },
 {
+    "name":"UH-60L sighting machine #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lsm1.glb"
+},
+{
+    "name":"UH-60L M261 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lm26114.glb"
+},
+{
+    "name":"UH-60L M261 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lm26123.glb"
+},
+{
+    "name":"UH-60L AGM-114 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lagm11414.glb"
+},
+{
+    "name":"UH-60L AGM-114 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lagm11423.glb"
+},
+{
+    "name":"UH-60L fuel tank #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lf14.glb"
+},
+{
+    "name":"UH-60L fuel tank #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/uh60lf23.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
