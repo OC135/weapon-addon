@@ -1986,6 +1986,18 @@
     "model": "https://OC135.github.io/test6/uh60lf23.glb"
 },
 {
+    "name":"MQ-9B AGM-114 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mq9bagm11414.glb"
+},
+{
+    "name":"MQ-9B AGM-114 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mq9bagm11423.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
