@@ -1479,7 +1479,7 @@
     "name":"F-15E GBU-12 #2,12",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu12212.glb"
+    "model": "https://OC135.github.io/test6/f15egbu122121.glb"
 },
 {
     "name":"F-15E GBU-12 #3,11",
@@ -1509,7 +1509,7 @@
     "name":"F-15E GBU-12 #7",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu127.glb"
+    "model": "https://OC135.github.io/test6/f15egbu1271.glb"
 },
 {
     "name":"F-15E AN/AAQ-13",
