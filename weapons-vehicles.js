@@ -2049,7 +2049,7 @@
     "name":"F-15EX AIM-120 #5,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15exaim120510.glb"
+    "model": "https://OC135.github.io/test6/f15exaim1205101.glb"
 },
 {
     "name":"F-15EX AIM-120 #6,9",
