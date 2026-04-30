@@ -2064,6 +2064,96 @@
     "model": "https://OC135.github.io/test6/f15exaim12078.glb"
 },
 {
+    "name":"A-10C AGM-65 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm65110.glb"
+},
+{
+    "name":"A-10C AGM-65 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6529.glb"
+},
+{
+    "name":"A-10C AGM-65 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6538.glb"
+},
+{
+    "name":"A-10C AGM-65 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6547.glb"
+},
+{
+    "name":"A-10C AGM-65 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6556.glb"
+},
+{
+    "name":"A-10C GBU-38 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu381102.glb"
+},
+{
+    "name":"A-10C GBU-38 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38292.glb"
+},
+{
+    "name":"A-10C GBU-38 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38382.glb"
+},
+{
+    "name":"A-10C GBU-38 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38472.glb"
+},
+{
+    "name":"A-10C GBU-38 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38562.glb"
+},
+{
+    "name":"A-10C GBU-12 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu121102.glb"
+},
+{
+    "name":"A-10C GBU-12 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12292.glb"
+},
+{
+    "name":"A-10C GBU-12 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12382.glb"
+},
+{
+    "name":"A-10C GBU-12 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12472.glb"
+},
+{
+    "name":"A-10C GBU-12 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12562.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
