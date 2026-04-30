@@ -993,13 +993,13 @@
     "name":"A-10C AGM-65 #3,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm6535.glb"
+    "model": "https://OC135.github.io/test6/a10cagm65351.glb"
 },
 {
     "name":"A-10C AGM-65 #4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm654.glb"
+    "model": "https://OC135.github.io/test6/a10cagm6541.glb"
 },
 {
     "name":"A-10C GBU-38 #1,10",
@@ -1023,13 +1023,13 @@
     "name":"A-10C GBU-38 #4,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu3847.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu38471.glb"
 },
 {
     "name":"A-10C GBU-38 #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu3856.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu38561.glb"
 },
 {
     "name":"A-10C GBU-31 #1,11",
@@ -1053,31 +1053,31 @@
     "name":"A-10C GBU-31 #4,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu3148.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu31481.glb"
 },
 {
     "name":"A-10C GBU-31 #5,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu3157.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu31571.glb"
 },
 {
     "name":"A-10C GBU-31 #6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu316.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu3161.glb"
 },
 {
     "name":"A-10C fuel tank#1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cf13.glb"
+    "model": "https://OC135.github.io/test6/a10cf131.glb"
 },
 {
     "name":"A-10C fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cf2.glb"
+    "model": "https://OC135.github.io/test6/a10cf21.glb"
 },
 {
     "name":"Rafale R.550 #1,10",
@@ -1611,13 +1611,13 @@
     "name":"A-10C GBU-12 #4,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1247.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu12471.glb"
 },
 {
     "name":"A-10C GBU-12 #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1256.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu12561.glb"
 },
 {
     "name":"F-15E GBU-10 #1,7",
@@ -1695,19 +1695,19 @@
     "name":"A-10C GBU-10 #4,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1048.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu10481.glb"
 },
 {
     "name":"A-10C GBU-10 #5,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1057.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu10571.glb"
 },
 {
     "name":"A-10C GBU-10 #6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu106.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu1061.glb"
 },
 {
     "name":" ",
