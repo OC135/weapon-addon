@@ -2190,6 +2190,66 @@
     "model": "https://OC135.github.io/test6/vfa11f32.glb"
 },
 {
+    "name":"F-35B gun pod",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgp1.glb"
+},
+{
+    "name":"F-35B AIM-9 #1,2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35baim912.glb"
+},
+{
+    "name":"F-35B GBU-31 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu3114.glb"
+},
+{
+    "name":"F-35B GBU-31 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu3123.glb"
+},
+{
+    "name":"F-35B GBU-38 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu3814.glb"
+},
+{
+    "name":"F-35B GBU-38 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu3823.glb"
+},
+{
+    "name":"F-35B GBU-10 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu1014.glb"
+},
+{
+    "name":"F-35B GBU-10 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu1023.glb"
+},
+{
+    "name":"F-35B GBU-12 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu1214.glb"
+},
+{
+    "name":"F-35B GBU-10 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35bgbu1223.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
