@@ -119,7 +119,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf35b2.glb",
+"model": "https://OC135.github.io/test6/pf35b4.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -515,7 +515,7 @@ let rampRaiseCounter=0;
 let ramp_lower=0;
 
 let nameArr = [];
-fetch('https://raw.githubusercontent.com/OC135/weapon-addon/refs/heads/main/weapons-vehicles.js')
+fetch('https://raw.githubusercontent.com/OC135/GeoFs-weapon-addon/refs/heads/main/weapons-vehicles.js')
     .then(res => res.json())
     .then(data => {
         listData = data;
